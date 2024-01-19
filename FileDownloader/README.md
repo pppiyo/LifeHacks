@@ -6,9 +6,10 @@ Finding all slides listed on a webpage waiting for me to download one by one, I 
 Hence did some googling and tweaked a few code to realize this function.
 
 # How to run
-1. Open terminal under FileDownloader.py file folder.
-2. Type the following command and hit enter: "python3 FileDownloader.py".
-3. Follow the directions of the program (basically just provide the url that leads to the list of files and download will start immediately).
+1. Download FileDownloader.py to your local machine.
+1. Open terminal under the folder where FileDownloader.py is.
+2. Type the following command in terminal and hit enter: "python3 FileDownloader.py".
+3. Follow the directions of the program (basically just provide the url that leads to the list of files, and download will immediately start).
 
 # Note
 1. This program currently only supports downloading pdf and ppt files (others may be added later).
