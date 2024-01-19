@@ -1,0 +1,31 @@
+1. create a new folder (root) for this project
+
+2. create a subfolder named "venv" (venv) to store the virtual environment
+
+3. open vscode, create a new python file save it under root
+
+4. check out terminal, cd to root and paste the following to initialize venv:
+
+		python3 -m venv /path/to/new/virtual/environment
+
+	files will be populated under folder venv.
+
+5. activate venv by typing the following into terminal:
+
+		source /path/to/new/virtual/environment/bin/activate
+
+	(! tips: to print current working path, use command "pwd")
+
+6. install bs4 through terminal:
+
+	pip install beautifulsoup4
+
+7. install requests lib:
+
+	pip3 install requests
+
+8. write python code in FileDownloader.py
+
+9. run by typing the following on terminal under root folder:
+
+	python3 FileDownloader.py
