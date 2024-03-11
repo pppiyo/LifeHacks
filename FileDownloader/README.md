@@ -11,7 +11,7 @@ Finding all slides listed on a webpage waiting to be downloaded, I figured creat
 3. Follow the directions of the program (basically just provide the url that leads to the list of files, and download will immediately start).
 
 # Note
-1. This program currently only supports downloading pdf and ppt files (others may be added later).
+1. This program currently only supports downloading pdf and ppt files (support for other formats may be added later).
 2. For bug-free experiences, preferably your files are supposed to be in situations like this:
 <img width="458" alt="webpage demo" src="https://github.com/pppiyo/LifeHacks/assets/31379013/8c42e7c3-f614-4b19-939b-f970c632c15f">
 
