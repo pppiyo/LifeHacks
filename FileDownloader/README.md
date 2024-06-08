@@ -2,7 +2,7 @@
 A small program that helps batch download files on the internet by simply feeding the url of the parent page to the command line.
 
 # Motivation
-Finding all slides listed on a webpage waiting to be downloaded, I figured creating a little tool would to helpful save much time and energy.<br>
+Finding all slides listed on a webpage waiting to be downloaded, I figured creating a little tool would be helpful in saving time and energy.<br>
 
 # How to run
 1. Download FileDownloader.py to your local machine.
